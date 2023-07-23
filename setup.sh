@@ -1,5 +1,5 @@
 echo "Checking installed python modules:"
-MODULES=$(conda list)
+MODULES=$(pip list)
 MODULES_TO_INSTALL="tqdm torch torchvision"
 for MODULE in $MODULES_TO_INSTALL
 do
