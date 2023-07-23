@@ -1,0 +1,1 @@
+python src/detect.py --weights src/weights.pt --img 640 --conf 0.25 --source input/ --name run/ --project outputs/
