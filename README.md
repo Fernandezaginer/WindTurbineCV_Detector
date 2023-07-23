@@ -1,7 +1,7 @@
 # WindTurbineCV_Detector
-AI to detect wind turbines in images made with yolov5
+AI to detect wind turbines in images
 
-https://github.com/ultralytics/yolov5
+Made with yolov5: https://github.com/ultralytics/yolov5
 
 Example:
 
