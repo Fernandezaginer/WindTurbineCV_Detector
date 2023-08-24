@@ -7,5 +7,6 @@ Made with yolov5: https://github.com/ultralytics/yolov5
 
 Example:
 
-![Molinos](https://github.com/Fernandezaginer/WindTurbineCV_Detector/assets/73385513/952e0f1f-1593-4fe4-ae09-9bb9a753ca7b)
+
+![Molinos](https://github.com/Fernandezaginer/WindTurbineCV_Detector/assets/73385513/aa66dfaa-ccc3-480b-8bcc-eb0cb0583da7)
 
